@@ -1,0 +1,119 @@
+[21-Sep-2019 00:38:07 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:38:07 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:38:07 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:38:07 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:38:42 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 39
+[21-Sep-2019 00:39:41 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:39:41 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:39:41 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:39:41 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:40:04 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 39
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: SESS_USER_ID in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 13
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: question in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 14
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: marks in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 15
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: label in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 16
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: chapter in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 17
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: subject in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 18
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: semester in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 19
+[21-Sep-2019 00:41:46 UTC] PHP Notice:  Undefined index: branch in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 20
+[21-Sep-2019 00:41:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subject_name' cannot be null' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php:26
+Stack trace:
+#0 /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/process_add_question.php on line 26
+[21-Sep-2019 00:42:21 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:42:21 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:42:21 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:42:21 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:42:38 UTC] PHP Warning:  Division by zero in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 28
+[21-Sep-2019 06:12:38 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php:105
+Stack trace:
+#0 /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php(105): PDOStatement->execute()
+#1 {main}
+  thrown in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 105
+[21-Sep-2019 00:42:57 UTC] PHP Warning:  Division by zero in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 28
+[21-Sep-2019 06:12:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php:105
+Stack trace:
+#0 /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php(105): PDOStatement->execute()
+#1 {main}
+  thrown in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 105
+[21-Sep-2019 00:43:04 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:43:04 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:43:04 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 00:43:04 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 01:56:54 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 01:56:54 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 01:56:54 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 01:56:54 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 01:56:54 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 01:56:54 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 01:56:54 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:14 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 02:15:14 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 02:15:14 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 02:15:14 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:14 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:14 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:14 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:32 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:32 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:32 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:15:32 UTC] PHP Notice:  Undefined index: subject_code in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/generate_paper.php on line 90
+[21-Sep-2019 02:17:01 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 02:17:01 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 02:17:01 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 02:26:29 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 02:26:29 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 02:26:29 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 02:26:29 UTC] PHP Notice:  Undefined index: SESS_USER_ID in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/view_question.php on line 34
+[21-Sep-2019 02:26:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/view_question.php:36
+Stack trace:
+#0 /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/view_question.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/view_question.php on line 36
+[21-Sep-2019 08:08:59 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:09:41 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:09:53 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:10:23 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:12:06 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:15:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.1666666666667' at line 1' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php:105
+Stack trace:
+#0 /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php(105): PDOStatement->execute()
+#1 {main}
+  thrown in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 105
+[21-Sep-2019 08:16:01 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:16:13 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:16:21 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:16:43 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:18:04 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:29 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:32 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:34 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:36 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:38 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:38 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:40 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:40 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 02:52:41 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 02:52:41 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 02:52:41 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 08:22:42 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:22:44 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:23:27 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:29:09 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:32:57 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 08:34:23 Asia/Kolkata] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 131
+[21-Sep-2019 03:05:38 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 03:05:38 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 03:05:38 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 04:58:01 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 04:58:01 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 04:58:01 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 04:59:29 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 182
+[21-Sep-2019 04:59:29 UTC] PHP Notice:  Undefined index: SESS_USER_PRO_PIC in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 199
+[21-Sep-2019 04:59:29 UTC] PHP Notice:  Undefined index: SESS_USER_FUll_NAME in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/include/header.php on line 201
+[21-Sep-2019 11:56:23 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC LIMIT 10' at line 1' in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php:488
+Stack trace:
+#0 /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php(488): PDOStatement->execute()
+#1 {main}
+  thrown in /home/topn39r9926d/public_html/codehexteam.codevety.com/faculty/detail_generate_paper.php on line 488
